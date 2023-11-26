@@ -8,7 +8,7 @@ from Classes.apiInteraction import ScienceDayAPI
 
 UPDATE_DELAY = 3               # In seconds
 FPS = 30                       # Frames per second
-NUMBER_OF_ROWS = 20            # Number of rows in leaderboard
+NUMBER_OF_ROWS = 30            # Number of rows in leaderboard
 
 # Initializing 
 pygame.init()
